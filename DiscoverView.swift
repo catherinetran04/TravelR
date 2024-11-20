@@ -1,16 +1,4 @@
-//
-//  DiscoverView.swift
-//  Traveler
-//
-//  Created by Catherine Tran on 11/15/24.
-//
 
-i//
-//  DiscoverView.swift
-//  Traveler
-//
-//  Created by Catherine Tran on 11/15/24.
-//
 
 import SwiftUI
 import MapKit
@@ -30,7 +18,7 @@ struct DiscoverView: View {
     @State private var isLoading = true
     @State private var errorMessage: String? = nil
     
-    let googleAPIKey = "AIzaSyCKnLa8KCwK2MxsxYAak1GwgA6difWB5uI" // Replace with your actual Google API Key
+    let googleAPIKey = "" // Replace with your actual Google API Key
     
     var body: some View {
         NavigationView {
