@@ -1,9 +1,4 @@
-//
-//  TravelerApp.swift
-//  Traveler
-//
-//  Created by Catherine Tran on 11/15/24.
-//
+
 
 import SwiftUI
 import Combine
