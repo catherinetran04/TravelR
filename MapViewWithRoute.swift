@@ -1,16 +1,3 @@
-//
-//  MapViewWithRoute.swift
-//  Traveler
-//
-//  Created by Catherine Tran on 11/16/24.
-//
-
-//
-//  MapViewWithRoute.swift
-//  Traveler
-//
-//  Created by Catherine Tran on 11/16/24.
-//
 
 import SwiftUI
 import MapKit
