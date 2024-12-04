@@ -84,7 +84,7 @@ This project was created in just **30 days**, showcasing the power of rapid lear
 
 - **`Info.plist`**: Configuration file containing app metadata and permissions settings.
 
----
+--- 
 
 ## Installation
 
